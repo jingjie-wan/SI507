@@ -3,4 +3,5 @@ Course materials, projects, and homework for SI 507 - Intermediate Programming i
 
 ## Course Information
 Programming and software development skills, including: 
+
 applying basic algorithms and basic data structures, accessing and processing data, debugging, testing, incorporating external libraries, and maintaining a functioning development environment.
